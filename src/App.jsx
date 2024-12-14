@@ -14,8 +14,8 @@ const App = () => {
 
   const bigCards = [
     '/assets/pub/bigCard1.png',
-    '/assets/pub/bigCard2.png',
-    '/assets/pub/bigCard3.png',
+    '/assets/pub/BigCard2.png',
+    '/assets/pub/BigCard3.png',
   ];
 
   return (
